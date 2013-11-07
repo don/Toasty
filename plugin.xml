@@ -25,6 +25,8 @@
         
         <source-file src="src/android/com/chariotsolutions/toast/plugin/ToastPlugin.java"
             target-dir="src/com/chariotsolutions/toast/plugin"/>
-        
+        <source-file src="src/android/org/apache/cordova/api/Dummy.java"
+            target-dir="src/org/apache/cordova/api"/>
+
     </platform>
 </plugin>
