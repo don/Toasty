@@ -2,11 +2,8 @@ package com.chariotsolutions.toast.plugin;
 
 import android.util.Log;
 import android.widget.Toast;
-import org.apache.cordova.*;
-import org.apache.cordova.api.*;  // for Cordova 2.9
-// import org.apache.cordova.CallbackContext;
-// import org.apache.cordova.CordovaPlugin;
-// import org.apache.cordova.PluginResult;
+import org.apache.cordova.CallbackContext;
+import org.apache.cordova.CordovaPlugin;
 import org.json.JSONArray;
 import org.json.JSONException;
 
